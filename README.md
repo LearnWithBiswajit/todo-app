@@ -1,19 +1,15 @@
 # node-todo-cicd
-
 Run these commands:
 
-
-`sudo apt install nodejs`
-
-
-`sudo apt install npm`
+sudo apt install nodejs
 
 
-`npm install`
+sudo apt install npm
 
-`node app.js`
 
-or Run by docker compose
+npm install
 
-test
+node app.js
+
+#or Run by docker compose
 
